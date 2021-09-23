@@ -35,11 +35,12 @@
 <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rehanpunjwani&theme=tokyonight" align = "center">
 </p>
+
 <p align = "center">
    <img src = "https://github-readme-stats.vercel.app/api?username=rehanpunjwani&theme=tokyonight&show_icons=true&hide=stars" align = "center">
 </p>
 <p align = "center">
-     <img src = "https://github-readme-streak-stats.herokuapp.com?user=rehanpunjwnani&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" align = "center">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=rehanpunjwani&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" align = "center">
  </p>
 <p align = "center">
   <img src = "https://activity-graph.herokuapp.com/graph?username=rehanpunjwani&theme=react-dark" align = "center">
