@@ -40,13 +40,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehanpunjwani&label=Profile%20views&color=0e75b6&style=flat-square" alt="rehanpunjwani" width="150px"> </p>
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/rehan-rehman-punjwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehanpunjwani" height="30" width="40" /></a>
  <a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rehanpunjwani" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg
-" alt="rehanpunjwani" height="30" width="40" /></a>
-<a href="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  height="30" width="40"></a>
+ <a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rehanpunjwani" height="30" width="40" /></a>
+ <a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehanpunjwani" height="30" width="40" /></a>
+ <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rehanpunjwani" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -89,5 +89,16 @@
   <img src = "https://activity-graph.herokuapp.com/graph?username=rehanpunjwani&theme=react-dark" align = "center">
 </p>
 
-<h6 align="center">Show some ❤️ by starring ⭐ some of the repositories! </h6>
+### Show some ❤️ by starring ⭐ some of the repositories! 
+
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rehan-rehman-punjwani/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rehanpunjwani?hl=en)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rehanpunjwani/)
+[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">]()
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://rehanpunjwani.github.io/)
+
+
+<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
