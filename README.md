@@ -71,8 +71,11 @@
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/GameEngines/unity.svg" height="60" width="60"> 
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
  <img height="60" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg">
+ <img height="60" src="https://user-images.githubusercontent.com/49568477/134772338-94fbea42-f596-4b58-b30b-2a5ef1a5391f.png"/>
+<img height="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/MobileAppDevelopment/android.svg" />
 <br>
 <hr>
 <p align = "center">
