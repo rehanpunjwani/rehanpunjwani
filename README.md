@@ -8,7 +8,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="60" width="60" /> Hi there, This is Rehan!</h1>
 <h3 align="center">I am a full stack software engineer, digital nomad, passionate towards software development and open-source.</h3>
-<h6 align="center">I try to design 💻 Distributed Systems, 📱 Web Apps 🌐 Website for a living. 🌈</h6>
+<h6 align="center">I try to design 💻 Distributed Systems, 📱 Apps, and  🌐 Website for a living. 🌈</h6>
 
 
 
