@@ -14,7 +14,7 @@
 
 - 🎓 Bachlor of Science in Computer Science, TOP 1%.
 
-- 🥇 Gold Medal Awarded By H.H President of Pakistan for highest Academic Performance 🇵🇰
+- 🥇 Gold Medal Awarded By H.E President of Pakistan for highest Academic Performance 🇵🇰
 
 - 🤝 I’m currently hunting for project ideas and developing **Microservices in Nodejs**
 
