@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/rehanstwt" target="blank"><img src="https://img.shields.io/twitter/follow/rehanstwt?logo=twitter&style=for-the-badge" alt="rehanstwt" /></a></p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="60" width="60" /> Hi there, This is Rehan!</h1>
-<h3 align="center">I am a Full Stack Developer, Digital Nomad, passionate towards software development and open-source.</h3>
+<h3 align="center">I am a full stack software engineer, dgital nomad, passionate towards software development and open-source.</h3>
 <h6 align="center">I try to design 💻 Distributed Systems, 📱 Web Apps 🌐 Website for a living. 🌈</h6>
 
 
