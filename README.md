@@ -102,6 +102,3 @@
 [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">]()
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://rehanpunjwani.github.io/)
 
-
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
-
