@@ -30,7 +30,7 @@
 
 - 📝 I regularly  share updates about my development **[here!](https://twitter.com/rehanstwt/)**
 
-- 💬 Ask me about **Node.js Frameworks (Nextjs, Nestjs), Database (SQL, NOSQL), Kubernetes, Docker, Distributed Systems, Machine Learning in tensorflow, Microservice Architecture, Web3.0 **
+- 💬 Ask me about **Node.js Frameworks (Nextjs, Nestjs), Database (SQL, NOSQL), Kubernetes, Docker, Distributed Systems, Machine Learning in tensorflow, Microservice Architecture, Web3.0**
 
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/rehan-rehman-punjwani/)** **[Twitter](https://twitter.com/rehanstwt)**
 
