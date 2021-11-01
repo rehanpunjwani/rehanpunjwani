@@ -4,7 +4,6 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-orange)
 ![living](https://img.shields.io/badge/living-inThePresent-3f9)
 
-<p align="left"> <a href="https://twitter.com/rehanstwt" target="blank"><img src="https://img.shields.io/twitter/follow/rehanstwt?logo=twitter&style=for-the-badge" alt="rehanstwt" /></a></p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="60" width="60" /> Hi there, This is Rehan!</h1>
 <h3 align="center">I am a full stack software engineer, digital nomad, passionate towards software development and open-source.</h3>
@@ -18,8 +17,6 @@
 
 - 🤝 I’m currently hunting for project ideas and developing **Microservices in Nodejs**
 
-- 🥽 I’m currently learning VR Development with **[Unity3D](https://unity3d.com/)**
-
 - 👻 I'm constantly looking for **open source** projects to contribute
 
 - 🤔 I’m looking for help with ...**Understanding and implementing production level blockchain projects.**
@@ -28,11 +25,11 @@
 
 - 👨‍💻 Check out my projects **[here!](https://github.com/rehanpunjwani?tab=repositories)**
 
-- 📝 I regularly  share updates about my development **[here!](https://twitter.com/rehanstwt/)**
+- 📝 I regularly  share updates about my development **[here!]**
 
 - 💬 Ask me about **Node.js Frameworks (Nextjs, Nestjs), Database (SQL, NOSQL), Kubernetes, Docker, Distributed Systems, Machine Learning in tensorflow, Microservice Architecture, Web3.0**
 
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/rehan-rehman-punjwani/)** **[Twitter](https://twitter.com/rehanstwt)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/rehan-rehman-punjwani/)** 
 
 - ⚡ Fun fact: *If you're not having fun you're not doing it right.*
 
