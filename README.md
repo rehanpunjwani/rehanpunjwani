@@ -21,7 +21,7 @@
 
 - 🤔 I’m looking for help with ...**Understanding and implementing production level blockchain projects.**
 
-- 👯 I’m looking to collaborate on **full stack web development projects!** and **Game development projects!**
+- 👯 I’m looking to collaborate on **full stack web development projects!**
 
 - 👨‍💻 Check out my projects **[here!](https://github.com/rehanpunjwani?tab=repositories)**
 
